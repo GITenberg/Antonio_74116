@@ -1,0 +1,33 @@
+_repo: Antonio_74116
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oldmeadow, Ernest
+    birthdate: 1867
+    deathdate: 1949
+    gutenberg_agent_id: '44785'
+    url: http://www.gutenberg.org/2009/agents/44785
+description: ''
+gutenberg_issued: '2024-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74116'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.hn3gmt&seq=7
+pgterms:marc905: 20240710192932oldmeadow
+pgterms:marc906: '1909'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: '  $aNew York :$bThe Century Co., $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Monks -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Portugal -- History -- 1826-1853 -- Fiction'
+- !lcsh 'Wine and wine making -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Antonio
+url: http://www.gutenberg.org/ebooks/74116
